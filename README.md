@@ -10,6 +10,8 @@ Push-to-talk speech-to-text for Windows — fast, lightweight, works everywhere.
 
 [![Download](https://img.shields.io/github/v/release/peota/voki-releases?label=Download&style=for-the-badge&color=8b5cf6)](https://github.com/peota/voki-releases/releases/latest)
 
+</div>
+
 ---
 
 ### Features
@@ -35,6 +37,6 @@ Push-to-talk speech-to-text for Windows — fast, lightweight, works everywhere.
 
 ---
 
+<div align="center">
 <sub>Built with Tauri, React, and Rust.</sub>
-
 </div>
