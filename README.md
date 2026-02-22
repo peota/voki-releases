@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo.png" alt="Voki" width="80" />
+<img src="assets/logo.png" alt="Voki" width="80" />
 
 # Voki
 
