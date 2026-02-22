@@ -6,7 +6,7 @@
 
 **Type with your voice.**
 
-Push-to-talk speech-to-text for Windows — fast, lightweight, works everywhere.
+Push-to-talk speech-to-text — fast, lightweight, works everywhere.
 
 [![Download](https://img.shields.io/github/v/release/peota/voki-releases?label=Download&style=for-the-badge&color=8b5cf6)](https://github.com/peota/voki-releases/releases/latest)
 
@@ -35,8 +35,3 @@ Push-to-talk speech-to-text for Windows — fast, lightweight, works everywhere.
 3. Choose your STT engine (local or cloud) during onboarding
 4. Press your hotkey and start talking
 
----
-
-<div align="center">
-<sub>Built with Tauri, React, and Rust.</sub>
-</div>
